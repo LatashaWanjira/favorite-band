@@ -1,0 +1,15 @@
+p.tongue{
+  width: 700px;
+  float: left;
+}
+
+img{
+  width: 453px;
+  margin-left: 130px;
+  float: left;
+}
+
+.column{
+  float: left;
+  line-height: 50px;
+}
